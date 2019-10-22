@@ -8,7 +8,9 @@ WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOV
 Sample Output:
 
 
+
 WE, THE PEOPLE OF INDIA,
-      having solemnly resolved to constitute India into a SOVEREIGN, !
+     
+     having solemnly resolved to constitute India into a SOVEREIGN, !
            SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC 
             and to secure to all its citizens
